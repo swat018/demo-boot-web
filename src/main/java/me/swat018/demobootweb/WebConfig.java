@@ -9,6 +9,6 @@ public class WebConfig implements WebMvcConfigurer {
 
 //    @Override
 //    public void addFormatters(FormatterRegistry registry) {
-//        registry.addFormatter(new PersionFormatter());
+//        registry.addFormatter(new PersonFormatter());
 //    }
 }
