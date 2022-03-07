@@ -8,3 +8,4 @@
   - 리소스 핸들러
   - HTTP 메시지 컨버터
   - HTTP 메시지 컨버터: json
+  - HTTP 메시지 컨버터: XML
