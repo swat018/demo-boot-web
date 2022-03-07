@@ -9,3 +9,4 @@
   - HTTP 메시지 컨버터
   - HTTP 메시지 컨버터: json
   - HTTP 메시지 컨버터: XML
+  - 기타 WebMvcConfigurer 설정
